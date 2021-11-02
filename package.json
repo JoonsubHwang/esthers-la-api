@@ -1,0 +1,27 @@
+{
+  "name": "esthers-la-api",
+  "version": "1.0.0",
+  "description": "API used by Esthers.LA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoonsubHwang/esthers-la-api.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "API",
+    "Express",
+    "axios",
+    "cheerio"
+  ],
+  "author": "Kayden Hwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoonsubHwang/esthers-la-api/issues"
+  },
+  "homepage": "https://github.com/JoonsubHwang/esthers-la-api#readme"
+}
